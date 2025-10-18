@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1850177_stream_0.platform_role" name="x_1850177_stream_0.platform_role">435d43d383acb21020c1c596feaad327</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 06:50:01</sys_created_on>
+        <sys_id>cb5d43d383acb21020c1c596feaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>435d43d383acb21020c1c596feaad327</sys_name>
+        <sys_package display_value="Streamlining Ticket Assignment for Efficient Support Operations" source="x_1850177_stream_0">c35d43d383acb21020c1c596feaad308</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Streamlining Ticket Assignment for Efficient Support Operations">c35d43d383acb21020c1c596feaad308</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cb5d43d383acb21020c1c596feaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 06:50:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
